@@ -38,9 +38,10 @@ cd Weather-API-App
 
 Open index.html in your browser
 
-(Optional) Replace the API key in the JS file with your own key from OpenWeatherMap
+Replace the API key in the JS file with your own key from OpenWeatherMap
 
 📸 Preview
+![alt text](image.png)
 
 Displays temperature, humidity, and weather description for any searched city.
 
